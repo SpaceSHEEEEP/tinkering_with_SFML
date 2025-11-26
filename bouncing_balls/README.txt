@@ -1,0 +1,1 @@
+upon clicking the window with your left mouse button, balls will appear and bounce around the window
